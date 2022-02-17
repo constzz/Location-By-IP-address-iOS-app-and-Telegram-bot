@@ -13,6 +13,6 @@ If you want to try using telegram bot:
 1) start the chat in telgram (use @findgeobyiptestappbot)
 2) insert your chat_id property in "K file" with constants.
 
-App showscase:
-![Location By IP address iOS app](https://www.youtube.com/watch?v=S97wPYSsl6Y)
+App showscase(+Video):
+[![Location By IP address iOS app](https://github.com/constzz/Location-By-IP-address-iOS-app-and-Telegram-bot/blob/main/app-screenshot.png)](https://www.youtube.com/watch?v=S97wPYSsl6Y "Link to the video")
 

@@ -7,7 +7,11 @@
  4. Opens a location in Maps application using MapKit.
 
 
-iOS development tecnhologies used: MVP architecture, MapKit, code autlayout, third-party APIs.
+iOS development tecnhologies used: MVP architecture, MapKit, code autlayout, third-party APIs, Network.
+
+If you want to try using telegram bot:
+1) start the chat in telgram (use @findgeobyiptestappbot)
+2) insert your chat_id property in "K file" with constants.
 
 App showscase:
 ![Location By IP address iOS app](https://www.youtube.com/watch?v=S97wPYSsl6Y)
